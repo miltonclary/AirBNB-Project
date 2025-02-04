@@ -13,13 +13,6 @@ Project consists of exploratory analysis as towether or not AirBNB listings that
 
 - <b>PG Admin 4 (PostgreSQL)</b> (21H2)
 
-<h2>Program walk-through:</h2>
-
-<p align="center">
-<br/>
-<img src="https://imgur.com/a/FJ3YRfU" height="80%" width="80%" alt="AirBNB Project"/>
-</p>
-
 <!--
  ```diff
 - text in red
